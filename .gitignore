@@ -1,0 +1,7 @@
+.env
+creds.json
+cookies/
+*session*
+__pycache__/
+*.pyc
+applications.csv

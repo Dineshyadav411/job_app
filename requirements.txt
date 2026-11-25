@@ -1,0 +1,6 @@
+
+anthropic
+playwright
+python-dotenv
+gspread
+google-auth
